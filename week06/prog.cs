@@ -8,7 +8,7 @@ namespace week06
 
         public static void math()
         {
-             Console.WriteLine("Choose a number");
+             Console.WriteLine("Choose a number.");
       int num = Convert.ToInt32(Console.ReadLine());
             
                 int x = 0;
