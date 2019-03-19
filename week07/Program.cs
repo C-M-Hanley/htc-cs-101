@@ -39,7 +39,7 @@ namespace week07
         static void Main(string[] args)
         { 
             Console.WriteLine("Enter a top number:");
-             int num = Convert.ToInt32(Console.ReadLine());
+             int num = Convert.ToInt32(Console.ReadLine()); 
 
 
             Console.WriteLine("Enter a bottom number:");
